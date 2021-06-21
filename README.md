@@ -1,8 +1,10 @@
 # approximate_inference
 
+Python and MATLAB implementations of iLQR, iLQG, and AICO on some classical underactuated systems (with mixed results)
+
 Final project for Fall 2020 CMU 16-748 Underactuated Robotics
 
-Python and MATLAB implementations of iLQR, iLQG, and AICO on some classical underactuated systems (with mixed results)
+See 16_748_Final_Report.pdf for final report
 
 https://homes.cs.washington.edu/~todorov/papers/LiICINCO04.pdf
 
